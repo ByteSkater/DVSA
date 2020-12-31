@@ -2,7 +2,7 @@
 # DVSA: a Damn Vulnerable Serverless Application ##
 ##################################################
 
-# this is a new comment
+# this is some comment
 
 service: dvsa
 
